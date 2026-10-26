@@ -1,0 +1,21 @@
+.container {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 24px;
+  text-align: center;
+}
+
+.count {
+  font-size: 64px;
+  font-weight: bold;
+}
+
+.btn {
+  font-size: 28px;
+  font-weight: bold;
+  padding: 12px 32px;
+  cursor: pointer;
+}
