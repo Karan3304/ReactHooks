@@ -1,0 +1,12 @@
+#root {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+  text-align: center;
+  background: #1a1a2e;
+  color: white;
+  font-weight: bold;
+}
